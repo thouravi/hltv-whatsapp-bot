@@ -12,5 +12,5 @@ A WhatsApp Bot which sends me the latest HLTV Post.
 ## Installation
 
 - Make sure you have an API account on Twilio
-- pip install twilio requests BeautifulSoup
+- pip install twilio requests beautifulsoup4
 
